@@ -8,6 +8,4 @@ For more information, please visit [our website](https://commonfund.nih.gov/brid
 ## Overview of some of the key public repositories in this organization:
 - [b2ai-standards-registry](https://github.com/bridge2ai/b2ai-standards-registry) - Standards Registry and Use Case Catalog, including data models, API specification, and other documentation.
 Intended to support generation of standardized, interoperable, and machine-readable data from biomedical research.
-- [standards-schema](https://github.com/bridge2ai/standards-schemas) - Data schema for Bridge2AI Standards Schemas (built using [LinkML](https://github.com/linkml).
-
-## Questions?
+- [standards-schema](https://github.com/bridge2ai/standards-schemas) - Data schema for Bridge2AI Standards Schemas (built using [LinkML](https://github.com/linkml)).
