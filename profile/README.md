@@ -1,5 +1,7 @@
 # Welcome to the Bridge2AI GitHub organization!
-![Bridge2AI logo](https://bridge2ai.org/wp-content/uploads/2023/03/cropped-bridge-center-website-logo.png)
+![Bridge2AI logo](https://bridge2ai.org/wp-content/uploads/2024/12/cropped-bridge-center-website-logo.png)
+
+> The repositories within this organization are under review for potential modification in compliance with Administration directives: Executive Order 14168
 
 The NIH Common Fund’s Bridge to Artificial Intelligence (Bridge2AI) program will propel biomedical research forward by setting the stage for widespread adoption
 of artificial intelligence (AI) and machine learning (ML) approaches for tackling complex biomedical challenges. 
